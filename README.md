@@ -1,15 +1,38 @@
 # design-build-competition
-Design-build competition done as term project for SE3 at UC Can Diego. Placed 1st out of 46 teams, with a 73% higher score than 2nd place.
-Purpose | The goal of this project was to create a structure/mechanism that takes a ball and places it on scoring platforms a minimum of 6 inches away. The mechanism must be independent of any human interaction, &emsp;and must be actuated by a servomotor. The project must be complete;y designed in Solidworks, and a full set of drawings must be produced in AutoCAD.<br/>
-Given | Available materials/resources include:<br/>
-&emsp;- 3D printing<br/>
-&emsp;- lazer cut polycarbonate sheets<br/>
-&emsp;- servomotor<br/>
-&emsp;- rubber bands<br/>
-&emsp;- prefabricated plastic beams and connectors<br/>
-&emsp;- steel ball bearings<br/>
-&emsp;- aluminium tube<br/>
-&emsp;- braided thread<br/>
-&emsp;- screws and nuts<br/>
-Solution | Created a cascading extending arm mechanism driven by the servomotor. It consisted of 4 individual 3D printed arms connected by pulleys with braided thread, lazer cut claws and mechanism structural    &emsp;support, and a ball release mechanism that releases upon full extension of the arm. Achieving this required preliminary servomotor calculations and considerations to make sure the servomotor &emsp;had the torque and rotation range to actually power the mechanism, complex solidworks modeling, over 50 hours of 3D printing time, and 3 hours of lazer cutting time. No rubber bands were used in &emsp;this design, which were avoided due to carrying a very significant score deduction based on a scoring index.<br/>
-Achievements | Scored 1st out of 46 teams, with a 73% higher score than 2nd place. Only team that had a unique design, not building a catapult and not using rubber bands for their design.
+Design-build competition completed as a term project for SE3 at UC San Diego. Placed 1st out of 46 teams, with a 73% higher score than the 2nd place team.
+
+---
+
+### Purpose
+The goal of this project was to create a structure/mechanism that could take a ball and place it on scoring platforms at least 6 inches away. The mechanism had to be entirely independent of any human interaction and actuated by a servomotor. The project was required to be fully designed in Solidworks, with a complete set of drawings produced in AutoCAD.
+
+---
+
+### Given
+Available materials/resources included:
+- 3D printing
+- Laser-cut polycarbonate sheets
+- Servomotor
+- Rubber bands
+- Prefabricated plastic beams and connectors
+- Steel ball bearings
+- Aluminum tube
+- Braided thread
+- Screws and nuts
+
+---
+
+### Solution
+We developed a cascading extending arm mechanism powered by the servomotor. The design consisted of four individual 3D-printed arms connected by pulleys with braided thread, laser-cut claws, structural support, and a ball release mechanism that deployed upon full extension of the arm. Key aspects of the design process included:
+- Preliminary servomotor calculations to ensure sufficient torque and rotation range
+- Complex Solidworks modeling
+- Over 50 hours of 3D printing and 3 hours of laser cutting time
+
+No rubber bands were used in this design, avoiding a significant score deduction based on the scoring criteria.
+
+---
+
+### Achievements
+- **1st Place** out of 46 teams, with a 73% higher score than the 2nd place team.
+- The only team with a unique design that avoided using a catapult mechanism and rubber bands.
+
