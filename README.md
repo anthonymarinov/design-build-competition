@@ -1,7 +1,7 @@
 # design-build-competition
 Design-build competition done as term project for SE3 at UC Can Diego. Placed 1st out of 46 teams, with a 73% higher score than 2nd place.
 Purpose | The goal of this project was to create a structure/mechanism that takes a ball and places it on scoring platforms a minimum of 6 inches away. The mechanism must be independent of any human interaction, 
-          and must be actuated by a servomotor. The project must be complete;y designed in Solidworks, and a full set of drawings must be produced in AutoCAD.
+          and must be actuated by a servomotor. The project must be complete;y designed in Solidworks, and a full set of drawings must be produced in AutoCAD.<br/>
 Given | Available materials/resources include: 
         - 3D printing
         - lazer cut polycarbonate sheets
